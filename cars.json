@@ -1,0 +1,132 @@
+[
+  {
+    "brand": "Bmw",
+    "color": "yellow",
+    "price": 3000,
+    "enginePower": 250,
+    "fuelConsumption": 14,
+    "speed": 200,
+    "doors": 4,
+    "passengerCapacity": 9
+  },
+  {
+    "brand": "Bmw",
+    "color": "blue",
+    "price": 1500,
+    "enginePower": 250,
+    "fuelConsumption": 15,
+    "speed": 250,
+    "doors": 2,
+    "passengerCapacity": 4
+  },
+  {
+    "brand": "Bmw",
+    "color": "black",
+    "price": 2000,
+    "enginePower": 300,
+    "fuelConsumption": 13,
+    "speed": 175,
+    "doors": 4,
+    "passengerCapacity": 10
+  },
+  {
+    "brand": "Opel",
+    "color": "green",
+    "price": 2150,
+    "enginePower": 120,
+    "fuelConsumption": 16,
+    "speed": 100,
+    "doors": 2,
+    "passengerCapacity": 5
+  },
+  {
+    "brand": "Opel",
+    "color": "yellow",
+    "price": 1850,
+    "enginePower": 200,
+    "fuelConsumption": 12,
+    "speed": 250,
+    "doors": 4,
+    "passengerCapacity": 13
+  },
+  {
+    "brand": "Opel",
+    "color": "white",
+    "price": 1350,
+    "enginePower": 250,
+    "fuelConsumption": 20,
+    "speed": 220,
+    "doors": 2,
+    "passengerCapacity": 5
+  },
+  {
+    "brand": "Nissan",
+    "color": "black",
+    "price": 2250,
+    "enginePower": 350,
+    "fuelConsumption": 10,
+    "speed": 320,
+    "doors": 2,
+    "passengerCapacity": 4
+  },
+  {
+    "brand": "Nissan",
+    "color": "black",
+    "price": 1460,
+    "enginePower": 330,
+    "fuelConsumption": 12,
+    "speed": 350,
+    "doors": 2,
+    "passengerCapacity": 5
+  },
+  {
+    "brand": "Nissan",
+    "color": "grey",
+    "price": 3210,
+    "enginePower": 225,
+    "fuelConsumption": 10,
+    "speed": 400,
+    "doors": 4,
+    "passengerCapacity": 5
+  },
+  {
+    "brand": "Renault",
+    "color": "grey",
+    "price": 5640,
+    "enginePower": 310,
+    "fuelConsumption": 15,
+    "speed": 250,
+    "doors": 2,
+    "passengerCapacity": 4
+  },
+  {
+    "brand": "Renault",
+    "color": "yellow",
+    "price": 4230,
+    "enginePower": 215,
+    "fuelConsumption": 16,
+    "speed": 120,
+    "doors": 4,
+    "passengerCapacity": 12
+  },
+  {
+    "brand": "Mercedes",
+    "color": "white",
+    "price": 31510,
+    "enginePower": 500,
+    "fuelConsumption": 20,
+    "speed": 420,
+    "doors": 4,
+    "passengerCapacity": 10
+  },
+  {
+    "brand": "Mercedes",
+    "color": "green",
+    "price": 4600,
+    "enginePower": 175,
+    "fuelConsumption": 16,
+    "speed": 120,
+    "doors": 4,
+    "passengerCapacity": 5
+  }
+]

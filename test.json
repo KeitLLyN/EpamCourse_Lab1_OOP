@@ -1,0 +1,12 @@
+[
+  {
+    "brand": "Bmw",
+    "color": "yellow",
+    "price": 3000,
+    "enginePower": 250,
+    "fuelConsumption": 14,
+    "speed": 200,
+    "doors": 2,
+    "passengerCapacity": 6
+  }
+]

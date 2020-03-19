@@ -1,0 +1,74 @@
+14:14:23.128 [main] INFO  TaxiStation - cars.json was opened
+14:14:23.132 [main] INFO  TaxiStation - MiniBus(Bmw) was added to car list
+14:14:23.132 [main] INFO  TaxiStation - Hatchback(Bmw) was added to car list
+14:14:23.133 [main] INFO  TaxiStation - MiniBus(Bmw) was added to car list
+14:14:23.133 [main] INFO  TaxiStation - Hatchback(Opel) was added to car list
+14:14:23.133 [main] INFO  TaxiStation - MiniBus(Opel) was added to car list
+14:14:23.134 [main] INFO  TaxiStation - Hatchback(Opel) was added to car list
+14:14:23.134 [main] INFO  TaxiStation - Hatchback(Nissan) was added to car list
+14:14:23.134 [main] INFO  TaxiStation - Hatchback(Nissan) was added to car list
+14:14:23.134 [main] INFO  TaxiStation - Sedan(Nissan) was added to car list
+14:14:23.135 [main] INFO  TaxiStation - Hatchback(Renault) was added to car list
+14:14:23.135 [main] INFO  TaxiStation - MiniBus(Renault) was added to car list
+14:14:23.136 [main] INFO  TaxiStation - MiniBus(Mercedes) was added to car list
+14:14:23.136 [main] INFO  TaxiStation - Sedan(Mercedes) was added to car list
+14:14:23.136 [main] INFO  TaxiStation - Carpool was created
+14:14:23.136 [main] INFO  TaxiStation - Taxi station was created
+14:14:23.139 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+14:14:30.495 [main] INFO  TaxiStation - Cars were found by speed range from 100 to 250
+14:15:52.084 [main] INFO  TaxiStation - cars.json was opened
+14:15:52.087 [main] INFO  TaxiStation - MiniBus(Bmw) was added to car list
+14:15:52.087 [main] INFO  TaxiStation - Hatchback(Bmw) was added to car list
+14:15:52.087 [main] INFO  TaxiStation - MiniBus(Bmw) was added to car list
+14:15:52.087 [main] INFO  TaxiStation - Hatchback(Opel) was added to car list
+14:15:52.087 [main] INFO  TaxiStation - MiniBus(Opel) was added to car list
+14:15:52.087 [main] INFO  TaxiStation - Hatchback(Opel) was added to car list
+14:15:52.088 [main] INFO  TaxiStation - Hatchback(Nissan) was added to car list
+14:15:52.088 [main] INFO  TaxiStation - Hatchback(Nissan) was added to car list
+14:15:52.088 [main] INFO  TaxiStation - Sedan(Nissan) was added to car list
+14:15:52.088 [main] INFO  TaxiStation - Hatchback(Renault) was added to car list
+14:15:52.088 [main] INFO  TaxiStation - MiniBus(Renault) was added to car list
+14:15:52.088 [main] INFO  TaxiStation - MiniBus(Mercedes) was added to car list
+14:15:52.089 [main] INFO  TaxiStation - Sedan(Mercedes) was added to car list
+14:15:52.089 [main] INFO  TaxiStation - Carpool was created
+14:15:52.089 [main] INFO  TaxiStation - Taxi station was created
+14:15:52.090 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+14:15:56.960 [main] INFO  TaxiStation - Cars were found by speed range from 100 to 420
+19:28:05.677 [main] INFO  TaxiStation - cars.json was opened
+19:28:05.698 [main] INFO  TaxiStation - MiniBus(Bmw) was added to car list
+19:28:05.698 [main] INFO  TaxiStation - Hatchback(Bmw) was added to car list
+19:28:05.698 [main] INFO  TaxiStation - MiniBus(Bmw) was added to car list
+19:28:05.698 [main] INFO  TaxiStation - Hatchback(Opel) was added to car list
+19:28:05.698 [main] INFO  TaxiStation - MiniBus(Opel) was added to car list
+19:28:05.698 [main] INFO  TaxiStation - Hatchback(Opel) was added to car list
+19:28:05.698 [main] INFO  TaxiStation - Hatchback(Nissan) was added to car list
+19:28:05.698 [main] INFO  TaxiStation - Hatchback(Nissan) was added to car list
+19:28:05.699 [main] INFO  TaxiStation - Sedan(Nissan) was added to car list
+19:28:05.699 [main] INFO  TaxiStation - Hatchback(Renault) was added to car list
+19:28:05.699 [main] INFO  TaxiStation - MiniBus(Renault) was added to car list
+19:28:05.699 [main] INFO  TaxiStation - MiniBus(Mercedes) was added to car list
+19:28:05.699 [main] INFO  TaxiStation - Sedan(Mercedes) was added to car list
+19:28:05.699 [main] INFO  TaxiStation - Carpool was created
+19:28:05.699 [main] INFO  TaxiStation - Taxi station was created
+19:28:15.387 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:35:52.056 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:38:08.355 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:38:08.357 [main] INFO  TaxiStation - null
+19:38:37.301 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:39:01.732 [main] INFO  TaxiStation - null
+19:39:14.824 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:39:14.827 [main] INFO  TaxiStation - java.util.NoSuchElementException
+19:43:07.016 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:43:07.019 [main] ERROR TaxiStation - java.util.NoSuchElementException
+19:43:31.254 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:43:31.257 [main] ERROR TaxiStation - null
+19:43:48.742 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:43:48.746 [main] ERROR TaxiStation - null
+19:45:15.163 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:45:41.585 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:45:41.588 [main] ERROR TaxiStation - java.util.NoSuchElementException
+19:47:28.821 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:47:28.824 [main] ERROR TaxiStation - Could't find right number java.util.NoSuchElementException
+19:50:23.330 [main] INFO  TaxiStation - Could't read file cars.jso: java.io.FileNotFoundException: cars.jso (Не удается найти указанный файл)
+19:50:45.553 [main] INFO  TaxiStation - Sorting carpool by fuel consumption
+19:50:45.553 [main] ERROR TaxiStation - Could't find right number java.util.NoSuchElementException
